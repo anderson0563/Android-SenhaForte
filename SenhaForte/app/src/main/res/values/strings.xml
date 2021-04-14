@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Senha Forte</string>
+    <string name="senha">Informe sua senha</string>
+    <string name="confirmacaoSenha">Confirme a sua senha</string>
+    <string name="email">Informe seu email</string>
+    <string name="Validar">Valide a senha</string>
+</resources>
